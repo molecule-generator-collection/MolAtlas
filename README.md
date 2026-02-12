@@ -142,9 +142,9 @@ python -m scripts.molatlas_tools.cli viz2 --config scripts/configs/viz2_example.
 
 The following molecular properties are supported:
 
-```
+
 MW, HOMO, LUMO, HOMO-LUMO gap, VIP, VEA, Dipole, Energy, DEEN, Chrg_var, Spin_sum, Freq, E_free, E_enth, Ei, Et, Ezp, Cv, Si, polar_iso, polar_aniso, IR, Raman, Abs_wl_1, Abs_f_1, CD_mu_1, CD_theta_1, CD_g_1, FL_wl_1, FL_f_1, CPL_mu_1, CPL_theta_1, CPL_g_1, charge
-```
+
 
 These property names must match exactly when specified in the YAML configuration files. 
 The details of these properties are described in Table S1 of the Supporting Information.
