@@ -57,7 +57,7 @@ Because these files are large, they are hosted externally.
 **Download from Zenodo :**
 Download the KDE files from Zenodo and place them in the `data/` directory.
 ```
-https://zenodo.org/record/xxxxx   
+https://zenodo.org/10.5281/zenodo.18621610
 ```
 
 ## Usage (CLI)
