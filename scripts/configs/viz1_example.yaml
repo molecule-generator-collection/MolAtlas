@@ -1,0 +1,18 @@
+# Example config for Visualization 1 (1D property distributions)
+viz1:
+  database: All        # All | ZINC | PubChem | GDB
+  charge: "0"          # "0" or "All"
+  output_dir: fig
+  visualize: true      # set false to compute only (no figures)
+  make_radar: true
+  make_violin: true
+
+  # Provide the molecule properties and values (property -> numeric value)
+  properties: ["MW", "HOMO", "LUMO", "HOMO-LUMO gap", "Abs_wl_1", "Abs_f_1"]
+  values:
+    MW: 300
+    HOMO: -6
+    LUMO: -2
+    HOMO-LUMO gap: 4
+    Abs_wl_1: 350
+    Abs_f_1: 0.03

@@ -1,0 +1,13 @@
+# Example config for Visualization 2 (2D map defined by two properties)
+viz2:
+  database: All
+  charge: "0"
+  output_dir: fig
+  visualize: true      # set false to compute only (no figures)
+  show_contours: true
+
+  # 2D property pair and your molecule values
+  prop_x: MW
+  prop_y: Abs_wl_1
+  x: 300
+  y: 350
