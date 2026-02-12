@@ -7,7 +7,7 @@ This repository provides **MolAtlas**, a visualization framework for molecular p
   - **Visualization 1**: 1D property distributions → returns **per-property percentiles**
   - **Visualization 2**: 2D property map (KDE) → returns **percentile of density**
 
-## Reference (ChemRxiv)
+## Reference 
 
 If you use MolAtlas in your research, please cite:
 
