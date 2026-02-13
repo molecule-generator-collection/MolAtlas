@@ -3,7 +3,7 @@
 This repository provides **MolAtlas**, a visualization framework for molecular property distributions to guide functional molecule development.
 
 - **[Google Colaboratory version](https://colab.research.google.com/github/molecule-generator-collection/MolAtlas/blob/main/Visualization_via_MolAtlas.ipynb)** is availabile for interactive use. 
-- The `scripts/` folder provides a **reproducible, YAML-driven CLI workflow** that separates:
+- The `scripts/` folder provides a **reproducible, CLI workflow** that separates:
   - **Visualization 1**: 1D property distributions → returns **per-property percentiles**
   - **Visualization 2**: 2D property map (KDE) → returns **percentile of density**
 
